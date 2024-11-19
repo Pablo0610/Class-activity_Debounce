@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #8fbc8f;
+  color: #333;
+}
+
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+
+form {
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  margin: 10px 0;
+}
+
+h2 {
+  margin: 10px 0 5px;
+}
+
+span {
+  display: inline-block;
+  margin-right: 5px;
+  background-color: #eee;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
